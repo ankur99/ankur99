@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankur99
 - 👀 I’m interested in frontend developement
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning NodeJS 🥲
 - 📫 How to reach me ankur99thlife@gmail.com
 
 <!---
