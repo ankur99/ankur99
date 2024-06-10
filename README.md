@@ -25,7 +25,7 @@ Hello! I'm a passionate **Frontend Developer** with expertise in **ReactJS**, **
 
 ## 3D Model of CSS Logo
 
-<object type="model/stl" data="css-logo.stl" width="400" height="400"></object>
+<object type="model/stl" data="https://github.com/ankur99/ankur99/edit/main/css-logo.stl" width="400" height="400"></object>
 
 ---
 
